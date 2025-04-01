@@ -1,0 +1,1271 @@
+{
+    "count": 5,
+    "sub_parts": {
+        "product_info": {
+            "count": 3,
+            "sub_parts": {
+                "brand_title": null,
+                "product_title": null,
+                "price": null
+            }
+        },
+        "style": {
+            "count": 2,
+            "sub_parts": {
+                "product_code": null,
+                "style": null
+            }
+        },
+        "color_variants": {
+            "count": 4,
+            "sub_parts": [
+                {
+                    "count": 2,
+                    "sub_parts": {
+                        "color": null,
+                        "photos": {
+                            "count": 7,
+                            "sub_parts": [
+                                null,
+                                null,
+                                null,
+                                null,
+                                null,
+                                null,
+                                null
+                            ]
+                        }
+                    }
+                },
+                {
+                    "count": 2,
+                    "sub_parts": {
+                        "color": null,
+                        "photos": {
+                            "count": 7,
+                            "sub_parts": [
+                                null,
+                                null,
+                                null,
+                                null,
+                                null,
+                                null,
+                                null
+                            ]
+                        }
+                    }
+                },
+                {
+                    "count": 2,
+                    "sub_parts": {
+                        "color": null,
+                        "photos": {
+                            "count": 7,
+                            "sub_parts": [
+                                null,
+                                null,
+                                null,
+                                null,
+                                null,
+                                null,
+                                null
+                            ]
+                        }
+                    }
+                },
+                {
+                    "count": 2,
+                    "sub_parts": {
+                        "color": null,
+                        "photos": {
+                            "count": 6,
+                            "sub_parts": [
+                                null,
+                                null,
+                                null,
+                                null,
+                                null,
+                                null
+                            ]
+                        }
+                    }
+                }
+            ]
+        },
+        "detail": {
+            "count": 2,
+            "sub_parts": {
+                "style": {
+                    "count": 4,
+                    "sub_parts": [
+                        null,
+                        null,
+                        null,
+                        null
+                    ]
+                },
+                "Composition": {
+                    "count": 2,
+                    "sub_parts": [
+                        null,
+                        null
+                    ]
+                }
+            }
+        },
+        "fashion": {
+            "count": 73,
+            "sub_parts": [
+                {
+                    "count": 2,
+                    "sub_parts": {
+                        "title": null,
+                        "links": {
+                            "count": 5,
+                            "sub_parts": [
+                                null,
+                                null,
+                                null,
+                                null,
+                                null
+                            ]
+                        }
+                    }
+                },
+                {
+                    "count": 2,
+                    "sub_parts": {
+                        "title": null,
+                        "links": {
+                            "count": 3,
+                            "sub_parts": [
+                                null,
+                                null,
+                                null
+                            ]
+                        }
+                    }
+                },
+                {
+                    "count": 2,
+                    "sub_parts": {
+                        "title": null,
+                        "links": {
+                            "count": 5,
+                            "sub_parts": [
+                                null,
+                                null,
+                                null,
+                                null,
+                                null
+                            ]
+                        }
+                    }
+                },
+                {
+                    "count": 2,
+                    "sub_parts": {
+                        "title": null,
+                        "links": {
+                            "count": 19,
+                            "sub_parts": [
+                                null,
+                                null,
+                                null,
+                                null,
+                                null,
+                                null,
+                                null,
+                                null,
+                                null,
+                                null,
+                                null,
+                                null,
+                                null,
+                                null,
+                                null,
+                                null,
+                                null,
+                                null,
+                                null
+                            ]
+                        }
+                    }
+                },
+                {
+                    "count": 2,
+                    "sub_parts": {
+                        "title": null,
+                        "links": {
+                            "count": 5,
+                            "sub_parts": [
+                                null,
+                                null,
+                                null,
+                                null,
+                                null
+                            ]
+                        }
+                    }
+                },
+                {
+                    "count": 2,
+                    "sub_parts": {
+                        "title": null,
+                        "links": {
+                            "count": 3,
+                            "sub_parts": [
+                                null,
+                                null,
+                                null
+                            ]
+                        }
+                    }
+                },
+                {
+                    "count": 2,
+                    "sub_parts": {
+                        "title": null,
+                        "links": {
+                            "count": 5,
+                            "sub_parts": [
+                                null,
+                                null,
+                                null,
+                                null,
+                                null
+                            ]
+                        }
+                    }
+                },
+                {
+                    "count": 2,
+                    "sub_parts": {
+                        "title": null,
+                        "links": {
+                            "count": 5,
+                            "sub_parts": [
+                                null,
+                                null,
+                                null,
+                                null,
+                                null
+                            ]
+                        }
+                    }
+                },
+                {
+                    "count": 2,
+                    "sub_parts": {
+                        "title": null,
+                        "links": {
+                            "count": 4,
+                            "sub_parts": [
+                                null,
+                                null,
+                                null,
+                                null
+                            ]
+                        }
+                    }
+                },
+                {
+                    "count": 2,
+                    "sub_parts": {
+                        "title": null,
+                        "links": {
+                            "count": 2,
+                            "sub_parts": [
+                                null,
+                                null
+                            ]
+                        }
+                    }
+                },
+                {
+                    "count": 2,
+                    "sub_parts": {
+                        "title": null,
+                        "links": {
+                            "count": 3,
+                            "sub_parts": [
+                                null,
+                                null,
+                                null
+                            ]
+                        }
+                    }
+                },
+                {
+                    "count": 2,
+                    "sub_parts": {
+                        "title": null,
+                        "links": {
+                            "count": 5,
+                            "sub_parts": [
+                                null,
+                                null,
+                                null,
+                                null,
+                                null
+                            ]
+                        }
+                    }
+                },
+                {
+                    "count": 2,
+                    "sub_parts": {
+                        "title": null,
+                        "links": {
+                            "count": 3,
+                            "sub_parts": [
+                                null,
+                                null,
+                                null
+                            ]
+                        }
+                    }
+                },
+                {
+                    "count": 2,
+                    "sub_parts": {
+                        "title": null,
+                        "links": {
+                            "count": 2,
+                            "sub_parts": [
+                                null,
+                                null
+                            ]
+                        }
+                    }
+                },
+                {
+                    "count": 2,
+                    "sub_parts": {
+                        "title": null,
+                        "links": {
+                            "count": 7,
+                            "sub_parts": [
+                                null,
+                                null,
+                                null,
+                                null,
+                                null,
+                                null,
+                                null
+                            ]
+                        }
+                    }
+                },
+                {
+                    "count": 2,
+                    "sub_parts": {
+                        "title": null,
+                        "links": {
+                            "count": 5,
+                            "sub_parts": [
+                                null,
+                                null,
+                                null,
+                                null,
+                                null
+                            ]
+                        }
+                    }
+                },
+                {
+                    "count": 2,
+                    "sub_parts": {
+                        "title": null,
+                        "links": {
+                            "count": 5,
+                            "sub_parts": [
+                                null,
+                                null,
+                                null,
+                                null,
+                                null
+                            ]
+                        }
+                    }
+                },
+                {
+                    "count": 2,
+                    "sub_parts": {
+                        "title": null,
+                        "links": {
+                            "count": 5,
+                            "sub_parts": [
+                                null,
+                                null,
+                                null,
+                                null,
+                                null
+                            ]
+                        }
+                    }
+                },
+                {
+                    "count": 2,
+                    "sub_parts": {
+                        "title": null,
+                        "links": {
+                            "count": 6,
+                            "sub_parts": [
+                                null,
+                                null,
+                                null,
+                                null,
+                                null,
+                                null
+                            ]
+                        }
+                    }
+                },
+                {
+                    "count": 2,
+                    "sub_parts": {
+                        "title": null,
+                        "links": {
+                            "count": 5,
+                            "sub_parts": [
+                                null,
+                                null,
+                                null,
+                                null,
+                                null
+                            ]
+                        }
+                    }
+                },
+                {
+                    "count": 2,
+                    "sub_parts": {
+                        "title": null,
+                        "links": {
+                            "count": 1,
+                            "sub_parts": [
+                                null
+                            ]
+                        }
+                    }
+                },
+                {
+                    "count": 2,
+                    "sub_parts": {
+                        "title": null,
+                        "links": {
+                            "count": 11,
+                            "sub_parts": [
+                                null,
+                                null,
+                                null,
+                                null,
+                                null,
+                                null,
+                                null,
+                                null,
+                                null,
+                                null,
+                                null
+                            ]
+                        }
+                    }
+                },
+                {
+                    "count": 2,
+                    "sub_parts": {
+                        "title": null,
+                        "links": {
+                            "count": 3,
+                            "sub_parts": [
+                                null,
+                                null,
+                                null
+                            ]
+                        }
+                    }
+                },
+                {
+                    "count": 2,
+                    "sub_parts": {
+                        "title": null,
+                        "links": {
+                            "count": 5,
+                            "sub_parts": [
+                                null,
+                                null,
+                                null,
+                                null,
+                                null
+                            ]
+                        }
+                    }
+                },
+                {
+                    "count": 2,
+                    "sub_parts": {
+                        "title": null,
+                        "links": {
+                            "count": 3,
+                            "sub_parts": [
+                                null,
+                                null,
+                                null
+                            ]
+                        }
+                    }
+                },
+                {
+                    "count": 2,
+                    "sub_parts": {
+                        "title": null,
+                        "links": {
+                            "count": 2,
+                            "sub_parts": [
+                                null,
+                                null
+                            ]
+                        }
+                    }
+                },
+                {
+                    "count": 2,
+                    "sub_parts": {
+                        "title": null,
+                        "links": {
+                            "count": 5,
+                            "sub_parts": [
+                                null,
+                                null,
+                                null,
+                                null,
+                                null
+                            ]
+                        }
+                    }
+                },
+                {
+                    "count": 2,
+                    "sub_parts": {
+                        "title": null,
+                        "links": {
+                            "count": 7,
+                            "sub_parts": [
+                                null,
+                                null,
+                                null,
+                                null,
+                                null,
+                                null,
+                                null
+                            ]
+                        }
+                    }
+                },
+                {
+                    "count": 2,
+                    "sub_parts": {
+                        "title": null,
+                        "links": {
+                            "count": 7,
+                            "sub_parts": [
+                                null,
+                                null,
+                                null,
+                                null,
+                                null,
+                                null,
+                                null
+                            ]
+                        }
+                    }
+                },
+                {
+                    "count": 2,
+                    "sub_parts": {
+                        "title": null,
+                        "links": {
+                            "count": 5,
+                            "sub_parts": [
+                                null,
+                                null,
+                                null,
+                                null,
+                                null
+                            ]
+                        }
+                    }
+                },
+                {
+                    "count": 2,
+                    "sub_parts": {
+                        "title": null,
+                        "links": {
+                            "count": 5,
+                            "sub_parts": [
+                                null,
+                                null,
+                                null,
+                                null,
+                                null
+                            ]
+                        }
+                    }
+                },
+                {
+                    "count": 2,
+                    "sub_parts": {
+                        "title": null,
+                        "links": {
+                            "count": 3,
+                            "sub_parts": [
+                                null,
+                                null,
+                                null
+                            ]
+                        }
+                    }
+                },
+                {
+                    "count": 2,
+                    "sub_parts": {
+                        "title": null,
+                        "links": {
+                            "count": 4,
+                            "sub_parts": [
+                                null,
+                                null,
+                                null,
+                                null
+                            ]
+                        }
+                    }
+                },
+                {
+                    "count": 2,
+                    "sub_parts": {
+                        "title": null,
+                        "links": {
+                            "count": 2,
+                            "sub_parts": [
+                                null,
+                                null
+                            ]
+                        }
+                    }
+                },
+                {
+                    "count": 2,
+                    "sub_parts": {
+                        "title": null,
+                        "links": {
+                            "count": 5,
+                            "sub_parts": [
+                                null,
+                                null,
+                                null,
+                                null,
+                                null
+                            ]
+                        }
+                    }
+                },
+                {
+                    "count": 2,
+                    "sub_parts": {
+                        "title": null,
+                        "links": {
+                            "count": 2,
+                            "sub_parts": [
+                                null,
+                                null
+                            ]
+                        }
+                    }
+                },
+                {
+                    "count": 2,
+                    "sub_parts": {
+                        "title": null,
+                        "links": {
+                            "count": 3,
+                            "sub_parts": [
+                                null,
+                                null,
+                                null
+                            ]
+                        }
+                    }
+                },
+                {
+                    "count": 2,
+                    "sub_parts": {
+                        "title": null,
+                        "links": {
+                            "count": 5,
+                            "sub_parts": [
+                                null,
+                                null,
+                                null,
+                                null,
+                                null
+                            ]
+                        }
+                    }
+                },
+                {
+                    "count": 2,
+                    "sub_parts": {
+                        "title": null,
+                        "links": {
+                            "count": 2,
+                            "sub_parts": [
+                                null,
+                                null
+                            ]
+                        }
+                    }
+                },
+                {
+                    "count": 2,
+                    "sub_parts": {
+                        "title": null,
+                        "links": {
+                            "count": 1,
+                            "sub_parts": [
+                                null
+                            ]
+                        }
+                    }
+                },
+                {
+                    "count": 2,
+                    "sub_parts": {
+                        "title": null,
+                        "links": {
+                            "count": 7,
+                            "sub_parts": [
+                                null,
+                                null,
+                                null,
+                                null,
+                                null,
+                                null,
+                                null
+                            ]
+                        }
+                    }
+                },
+                {
+                    "count": 2,
+                    "sub_parts": {
+                        "title": null,
+                        "links": {
+                            "count": 5,
+                            "sub_parts": [
+                                null,
+                                null,
+                                null,
+                                null,
+                                null
+                            ]
+                        }
+                    }
+                },
+                {
+                    "count": 2,
+                    "sub_parts": {
+                        "title": null,
+                        "links": {
+                            "count": 6,
+                            "sub_parts": [
+                                null,
+                                null,
+                                null,
+                                null,
+                                null,
+                                null
+                            ]
+                        }
+                    }
+                },
+                {
+                    "count": 2,
+                    "sub_parts": {
+                        "title": null,
+                        "links": {
+                            "count": 4,
+                            "sub_parts": [
+                                null,
+                                null,
+                                null,
+                                null
+                            ]
+                        }
+                    }
+                },
+                {
+                    "count": 2,
+                    "sub_parts": {
+                        "title": null,
+                        "links": {
+                            "count": 3,
+                            "sub_parts": [
+                                null,
+                                null,
+                                null
+                            ]
+                        }
+                    }
+                },
+                {
+                    "count": 2,
+                    "sub_parts": {
+                        "title": null,
+                        "links": {
+                            "count": 4,
+                            "sub_parts": [
+                                null,
+                                null,
+                                null,
+                                null
+                            ]
+                        }
+                    }
+                },
+                {
+                    "count": 2,
+                    "sub_parts": {
+                        "title": null,
+                        "links": {
+                            "count": 1,
+                            "sub_parts": [
+                                null
+                            ]
+                        }
+                    }
+                },
+                {
+                    "count": 2,
+                    "sub_parts": {
+                        "title": null,
+                        "links": {
+                            "count": 1,
+                            "sub_parts": [
+                                null
+                            ]
+                        }
+                    }
+                },
+                {
+                    "count": 2,
+                    "sub_parts": {
+                        "title": null,
+                        "links": {
+                            "count": 4,
+                            "sub_parts": [
+                                null,
+                                null,
+                                null,
+                                null
+                            ]
+                        }
+                    }
+                },
+                {
+                    "count": 2,
+                    "sub_parts": {
+                        "title": null,
+                        "links": {
+                            "count": 3,
+                            "sub_parts": [
+                                null,
+                                null,
+                                null
+                            ]
+                        }
+                    }
+                },
+                {
+                    "count": 2,
+                    "sub_parts": {
+                        "title": null,
+                        "links": {
+                            "count": 5,
+                            "sub_parts": [
+                                null,
+                                null,
+                                null,
+                                null,
+                                null
+                            ]
+                        }
+                    }
+                },
+                {
+                    "count": 2,
+                    "sub_parts": {
+                        "title": null,
+                        "links": {
+                            "count": 5,
+                            "sub_parts": [
+                                null,
+                                null,
+                                null,
+                                null,
+                                null
+                            ]
+                        }
+                    }
+                },
+                {
+                    "count": 2,
+                    "sub_parts": {
+                        "title": null,
+                        "links": {
+                            "count": 3,
+                            "sub_parts": [
+                                null,
+                                null,
+                                null
+                            ]
+                        }
+                    }
+                },
+                {
+                    "count": 2,
+                    "sub_parts": {
+                        "title": null,
+                        "links": {
+                            "count": 2,
+                            "sub_parts": [
+                                null,
+                                null
+                            ]
+                        }
+                    }
+                },
+                {
+                    "count": 2,
+                    "sub_parts": {
+                        "title": null,
+                        "links": {
+                            "count": 9,
+                            "sub_parts": [
+                                null,
+                                null,
+                                null,
+                                null,
+                                null,
+                                null,
+                                null,
+                                null,
+                                null
+                            ]
+                        }
+                    }
+                },
+                {
+                    "count": 2,
+                    "sub_parts": {
+                        "title": null,
+                        "links": {
+                            "count": 5,
+                            "sub_parts": [
+                                null,
+                                null,
+                                null,
+                                null,
+                                null
+                            ]
+                        }
+                    }
+                },
+                {
+                    "count": 2,
+                    "sub_parts": {
+                        "title": null,
+                        "links": {
+                            "count": 3,
+                            "sub_parts": [
+                                null,
+                                null,
+                                null
+                            ]
+                        }
+                    }
+                },
+                {
+                    "count": 2,
+                    "sub_parts": {
+                        "title": null,
+                        "links": {
+                            "count": 5,
+                            "sub_parts": [
+                                null,
+                                null,
+                                null,
+                                null,
+                                null
+                            ]
+                        }
+                    }
+                },
+                {
+                    "count": 2,
+                    "sub_parts": {
+                        "title": null,
+                        "links": {
+                            "count": 5,
+                            "sub_parts": [
+                                null,
+                                null,
+                                null,
+                                null,
+                                null
+                            ]
+                        }
+                    }
+                },
+                {
+                    "count": 2,
+                    "sub_parts": {
+                        "title": null,
+                        "links": {
+                            "count": 4,
+                            "sub_parts": [
+                                null,
+                                null,
+                                null,
+                                null
+                            ]
+                        }
+                    }
+                },
+                {
+                    "count": 2,
+                    "sub_parts": {
+                        "title": null,
+                        "links": {
+                            "count": 8,
+                            "sub_parts": [
+                                null,
+                                null,
+                                null,
+                                null,
+                                null,
+                                null,
+                                null,
+                                null
+                            ]
+                        }
+                    }
+                },
+                {
+                    "count": 2,
+                    "sub_parts": {
+                        "title": null,
+                        "links": {
+                            "count": 19,
+                            "sub_parts": [
+                                null,
+                                null,
+                                null,
+                                null,
+                                null,
+                                null,
+                                null,
+                                null,
+                                null,
+                                null,
+                                null,
+                                null,
+                                null,
+                                null,
+                                null,
+                                null,
+                                null,
+                                null,
+                                null
+                            ]
+                        }
+                    }
+                },
+                {
+                    "count": 2,
+                    "sub_parts": {
+                        "title": null,
+                        "links": {
+                            "count": 5,
+                            "sub_parts": [
+                                null,
+                                null,
+                                null,
+                                null,
+                                null
+                            ]
+                        }
+                    }
+                },
+                {
+                    "count": 2,
+                    "sub_parts": {
+                        "title": null,
+                        "links": {
+                            "count": 4,
+                            "sub_parts": [
+                                null,
+                                null,
+                                null,
+                                null
+                            ]
+                        }
+                    }
+                },
+                {
+                    "count": 2,
+                    "sub_parts": {
+                        "title": null,
+                        "links": {
+                            "count": 7,
+                            "sub_parts": [
+                                null,
+                                null,
+                                null,
+                                null,
+                                null,
+                                null,
+                                null
+                            ]
+                        }
+                    }
+                },
+                {
+                    "count": 2,
+                    "sub_parts": {
+                        "title": null,
+                        "links": {
+                            "count": 3,
+                            "sub_parts": [
+                                null,
+                                null,
+                                null
+                            ]
+                        }
+                    }
+                },
+                {
+                    "count": 2,
+                    "sub_parts": {
+                        "title": null,
+                        "links": {
+                            "count": 5,
+                            "sub_parts": [
+                                null,
+                                null,
+                                null,
+                                null,
+                                null
+                            ]
+                        }
+                    }
+                },
+                {
+                    "count": 2,
+                    "sub_parts": {
+                        "title": null,
+                        "links": {
+                            "count": 4,
+                            "sub_parts": [
+                                null,
+                                null,
+                                null,
+                                null
+                            ]
+                        }
+                    }
+                },
+                {
+                    "count": 2,
+                    "sub_parts": {
+                        "title": null,
+                        "links": {
+                            "count": 5,
+                            "sub_parts": [
+                                null,
+                                null,
+                                null,
+                                null,
+                                null
+                            ]
+                        }
+                    }
+                },
+                {
+                    "count": 2,
+                    "sub_parts": {
+                        "title": null,
+                        "links": {
+                            "count": 2,
+                            "sub_parts": [
+                                null,
+                                null
+                            ]
+                        }
+                    }
+                },
+                {
+                    "count": 2,
+                    "sub_parts": {
+                        "title": null,
+                        "links": {
+                            "count": 4,
+                            "sub_parts": [
+                                null,
+                                null,
+                                null,
+                                null
+                            ]
+                        }
+                    }
+                },
+                {
+                    "count": 2,
+                    "sub_parts": {
+                        "title": null,
+                        "links": {
+                            "count": 4,
+                            "sub_parts": [
+                                null,
+                                null,
+                                null,
+                                null
+                            ]
+                        }
+                    }
+                },
+                {
+                    "count": 2,
+                    "sub_parts": {
+                        "title": null,
+                        "links": {
+                            "count": 9,
+                            "sub_parts": [
+                                null,
+                                null,
+                                null,
+                                null,
+                                null,
+                                null,
+                                null,
+                                null,
+                                null
+                            ]
+                        }
+                    }
+                }
+            ]
+        }
+    }
+}
