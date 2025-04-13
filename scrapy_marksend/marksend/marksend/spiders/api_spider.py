@@ -9,7 +9,7 @@ class MarksAndSpencerSpider(scrapy.Spider):
         query = {
             "query": """
                 query {
-                  pdpOutfitsForProduct(variantId: "60727323") {
+                  pdpOutfitsForProduct(variantId: "60716467") {
                     __typename
                     ... on PDPOutfitsSuccess {
                       title
@@ -70,7 +70,7 @@ class MarksAndSpencerSpider(scrapy.Spider):
                   }
                 }
             """,
-            "variables": {"variantId": "60727323"},
+            "variables": {"variantId": "60716467"},
         }
         self.log(f"Yêu cầu gửi đi: {query}")
         # Headers để giả lập yêu cầu từ trình duyệt
@@ -108,7 +108,7 @@ class MarksAndSpencerSpider(scrapy.Spider):
                 outfits_by_id[outfit_id] = outfit
 
         # Lưu vào file JSON
-        with open('marks_and_spencer_outfits_s6.json', 'w', encoding='utf-8') as f:
+        with open('marks_and_spencer_outfits_s7.json', 'w', encoding='utf-8') as f:
             json.dump(outfits_by_id, f, ensure_ascii=False, indent=4)
 
         self.log('Dữ liệu đã được lưu vào marks_and_spencer_outfits.json')
