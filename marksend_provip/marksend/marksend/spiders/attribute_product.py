@@ -6,7 +6,7 @@ class AttributeProductSpider(scrapy.Spider):
     name = "attribute_product"
     allowed_domains = ["marksandspencer.com", "personalised-discovery.marksandspencer.app"]
     api_url = 'https://personalised-discovery.marksandspencer.app/graphql/'
-    start_urls = ["https://www.marksandspencer.com/stiletto-heel-pointed-court-shoes/p/clp60681645?color=CREAM#intid=pid_pg1pip48g4r1c3"]
+    start_urls = ["https://www.marksandspencer.com/fleece-supersoft-dressing-gown/p/clp60559231?color=MIDNIGHTNAVY#intid=pid_pg1pip24g2r1c1"]
 
     def get_product_info(self, response):
         product_name = response.css("h1.media-0_headingSm__aysOm::text").get()
@@ -21,19 +21,21 @@ class AttributeProductSpider(scrapy.Spider):
         }
 
     def get_detail_and_care(self, response):
-        detail = response.css(".product-details_spacer__MCm8e div")
+        detail = response.css(".product-details_spacer__MCm8e > div")
         result = []
-    
+
         for item in detail:
             key = item.css(".media-0_strong__aXigV::text").get()
             if key is None:
-                continue 
+                continue
 
-            sections = item.css(".media-0_textSm__Q52Mz+ .media-0_textSm__Q52Mz::text").getall()
-            value = [section.strip() for section in sections]
+            # Trích xuất tất cả text từ các thẻ con trong div
+            values = item.css("*::text").getall()
+            # Lọc bỏ key và các giá trị trống hoặc không mong muốn (như ký tự "•")
+            values = [v.strip() for v in values if v.strip() and v.strip() != key and v.strip() != "•"]
 
-            result.append({key: value})
-    
+            result.append({key: values})
+
         yield {
             "product_detail": result
         }
@@ -187,5 +189,5 @@ class AttributeProductSpider(scrapy.Spider):
         for item in self.get_detail_and_care(response):
             yield item
 
-        for request in self.get_outfits(response):
-            yield request
+        # for request in self.get_outfits(response):
+        #     yield request

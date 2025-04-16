@@ -1,0 +1,34 @@
+[{
+        "product_url": "https://www.marksandspencer.com/fleece-supersoft-dressing-gown/p/clp60559231?color=MIDNIGHTNAVY",
+        "product_brand": "M&S Collection",
+        "product_name": "Fleece Supersoft Dressing Gown",
+        "product_price": "£35"
+    },
+    {
+        "product_code": ".T076530",
+        "style": "Relax on those weekend mornings in this ultrawarmth classic dressing gown. Regular-fit design made from supersoft fleece for a cosy feel. Features two handy patch pockets on the front and a belt fastening.  M&S Collection: easy-to-wear wardrobe staples that combine classic and contemporary styles."
+    },
+    {
+        "product_detail": [{
+            "Style": ["Regular fit", "Belt fastening"]
+        }, {
+            "Safety Warning": ["Keep away from fire"]
+        }, {
+            "Composition": ["100% polyester (exclusive of trimmings)"]
+        }, {
+            "Care": ["Wash at 40°C delicate", "Do not bleach", "Tumble dry medium temperature", "Iron at low temperature", "Do not dry clean"]
+        }]
+    },
+    {
+        "color": "MIDNIGHTNAVY",
+        "images": ["https://assets.digitalcontent.marksandspencer.app/images/w_1024,q_auto,f_auto/SD_03_T07_6530_FS_X_EC_0/Fleece-Supersoft-Dressing-Gown", "https://assets.digitalcontent.marksandspencer.app/images/w_1024,q_auto,f_auto/SD_03_T07_6530_FS_X_EC_90/Fleece-Supersoft-Dressing-Gown", "https://assets.digitalcontent.marksandspencer.app/images/w_1024,q_auto,f_auto/SD_03_T07_6530_FS_X_EC_1/Fleece-Supersoft-Dressing-Gown", "https://assets.digitalcontent.marksandspencer.app/images/w_1024,q_auto,f_auto/SD_03_T07_6530_FS_X_EC_2/Fleece-Supersoft-Dressing-Gown", "https://assets.digitalcontent.marksandspencer.app/images/w_1024,q_auto,f_auto/SD_03_T07_6530_FS_X_EC_3/Fleece-Supersoft-Dressing-Gown", "https://assets.digitalcontent.marksandspencer.app/images/w_1024,q_auto,f_auto/SD_03_T07_6530_FS_X_EC_4/Fleece-Supersoft-Dressing-Gown", "https://assets.digitalcontent.marksandspencer.app/images/w_1024,q_auto,f_auto/SD_03_T07_6530_FS_X_EC_5/Fleece-Supersoft-Dressing-Gown"]
+    },
+    {
+        "color": "GREYMARL",
+        "images": ["https://assets.digitalcontent.marksandspencer.app/images/w_1024,q_auto,f_auto/SD_03_T07_6530_UT_X_EC_0/Fleece-Supersoft-Dressing-Gown", "https://assets.digitalcontent.marksandspencer.app/images/w_1024,q_auto,f_auto/SD_03_T07_6530_UT_X_EC_90/Fleece-Supersoft-Dressing-Gown", "https://assets.digitalcontent.marksandspencer.app/images/w_1024,q_auto,f_auto/SD_03_T07_6530_UT_X_EC_1/Fleece-Supersoft-Dressing-Gown", "https://assets.digitalcontent.marksandspencer.app/images/w_1024,q_auto,f_auto/SD_03_T07_6530_UT_X_EC_2/Fleece-Supersoft-Dressing-Gown", "https://assets.digitalcontent.marksandspencer.app/images/w_1024,q_auto,f_auto/SD_03_T07_6530_UT_X_EC_3/Fleece-Supersoft-Dressing-Gown", "https://assets.digitalcontent.marksandspencer.app/images/w_1024,q_auto,f_auto/SD_03_T07_6530_UT_X_EC_4/Fleece-Supersoft-Dressing-Gown"]
+    },
+    {
+        "color": "LIGHTDENIM",
+        "images": ["https://assets.digitalcontent.marksandspencer.app/images/w_1024,q_auto,f_auto/SD_03_T07_6530_HD_X_EC_0/Fleece-Supersoft-Dressing-Gown", "https://assets.digitalcontent.marksandspencer.app/images/w_1024,q_auto,f_auto/SD_03_T07_6530_HD_X_EC_90/Fleece-Supersoft-Dressing-Gown", "https://assets.digitalcontent.marksandspencer.app/images/w_1024,q_auto,f_auto/SD_03_T07_6530_HD_X_EC_1/Fleece-Supersoft-Dressing-Gown", "https://assets.digitalcontent.marksandspencer.app/images/w_1024,q_auto,f_auto/SD_03_T07_6530_HD_X_EC_2/Fleece-Supersoft-Dressing-Gown", "https://assets.digitalcontent.marksandspencer.app/images/w_1024,q_auto,f_auto/SD_03_T07_6530_HD_X_EC_3/Fleece-Supersoft-Dressing-Gown"]
+    }
+]
